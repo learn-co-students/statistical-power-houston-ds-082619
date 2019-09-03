@@ -52,11 +52,22 @@ Relational Databases
 
 #### Learning goals for this lesson:
 
-* 
+* Students will be able to differentiate between Type I and Type II error
+* Students will be able to explain effect size using Python
+* Students will be able to explain power analysis and how it related to alpha, sample size, and effect size
+* Students will be able to conduct statistical power analysis in Python
+
 
 #### Relevant learning goals from Airtable: 
 
-* 
+* HYPOTHESIS_TESTS.1.rec9OKVVB57s36apa
+* HYPOTHESIS_TESTS.2.recbmr3VoVj5LNLuw
+* HYPOTHESIS_TESTS.3.rec5SXilsktLBVrLe
+* POWER_ANOVA.1.recD4Z6W8mNzmAuBK
+* POWER_ANOVA.2.recNqePoI8sLGdhqz
+* POWER_ANOVA.2.recXjEPPnHc0LI65r
+* POWER_ANOVA.3.recJIJGE3ONVeKdBS
+* POWER_ANOVA.3.rec44GRAMI5dbXVlw
 
 #### Misconceptions / Notes
 
@@ -72,6 +83,8 @@ Relational Databases
 * Quick review: Hypothesis testing (5 minutes)
 * Type 1 and Type 2 errors (10 minutes)
     * Example 
-* Effect sizes (10 minutes) 
-
+* Statistical Power
+    * Effect sizes
+    * Significance level
+    * Sample size
 
