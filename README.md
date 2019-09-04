@@ -21,11 +21,11 @@ Ported from the ds-lesson-starters repository [here](https://github.com/learn-co
 
 #### Lesson Summary:
 
-A quick recap of hypothesis testing leads the way to a discussion on Type I and Type II errors in hypothesis testing. Students solve a quick example where they have to state what Type 1 and 2 errors are in a particular scenario. Next, students write code to run simulations for computing Type I and Type II error rate. Statistical power is introduced next, which leads to a discussion of effect size and a quick example to compute Cohen's d for two samples. After finishing the example, students perform a simulation to compute the power of a statistical hypothesis test. Next create visualizations to observe the effect of changing sample size, effect size, and significance level on power.  Finally, statistical power analysis is presented as a tool for experimental design, and students use the `statsmodels` library to compute power, sample size, detectable effect size, and $\alpha$. 
+A quick recap of hypothesis testing leads the way to a discussion on Type I and Type II errors in hypothesis testing. Students solve a quick example where they have to state what Type 1 and 2 errors are in a particular scenario. Next, students write code to run simulations for computing Type I and Type II error rate. Statistical power is introduced next, which leads to a discussion of effect size and a quick example to compute Cohen's d for two samples. After finishing the example, students perform a simulation to compute the power of a statistical hypothesis test. Next, students create visualizations to observe the effect of changing sample size, effect size, and significance level on power.  Finally, statistical power analysis is presented as a tool for experimental design, and students use the `statsmodels` library to compute power, sample size, detectable effect size, and $\alpha$. 
 
 #### Topic:
 
-Relational Databases
+Statistics
 
 #### Learn.co material:
 
@@ -54,7 +54,7 @@ Relational Databases
 
 * Students can differentiate between Type I and Type II error.
 * Students can create simulations to compute Type I and Type II errors, as well as power. 
-* Students can compute effect size using Python. 
+* Students can compute effect size using Python.
 * Students can demonstrate the relationship between power, alpha, sample size, and effect size. 
 * Students will be able to conduct statistical power analysis in Python. 
 
