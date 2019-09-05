@@ -93,13 +93,16 @@ Statistics
 #### Lesson Outline:
 
 * Hypothesis testing, Type 1 and Type 2 errors (15 minutes)
-    * Example simulation to compute Type I error - Guided
+    * Example simulation to compute Type I error
+        * Give students 2-3 minutes to look at the code. Guide them thru the code if they have any questions. 
     * Example simulation to compute Type II error - Students fill missing code. 
 * Statistical Power (20 minutes)
     * Effect size: Cohen's d (5 minutes)
     * Students use the same code they used to compute Type II error to compute power (5 minutes)
+        * If time is tight, you may skip the question that asks students to recompute power using a smaller sample size. The effect of sample size on power is discussed later. 
     * Visualizations to show how power changes with effect size, sample size, and alpha (10 minutes) 
 * Power analysis for Experimental Design (20 minutes)
     * A case study is presented. Students compute power of a poorly designed experiment, and then the sample size needed to get to a power of 80% using `statsmodels` library. 
     * An additional case study is presented. Complete it if time permits, if not, leave as an exercise to students. 
 * Summary (5 minutes)
+
