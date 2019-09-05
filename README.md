@@ -50,9 +50,11 @@ Statistics
 #### Prerequisite Learn.co material:
 
 [Introduction to Experimental Design](https://github.com/learn-co-curriculum/dsc-experimental-design)
+
 [P-values and the Null Hypothesis](https://github.com/learn-co-curriculum/dsc-p-values-and-null-hypothesis)
+
 [Conducting T-tests](https://github.com/learn-co-curriculum/dsc-t-tests)
-[One Sample T-Test - Lab](https://github.com/learn-co-curriculum/dsc-one-sample-t-tests-lab)
+
 [Two Sample T-Test - Lab](https://github.com/learn-co-curriculum/dsc-two-sample-t-tests-lab)
 
 #### Learning goals for this lesson:
